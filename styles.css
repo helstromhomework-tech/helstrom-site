@@ -95,3 +95,10 @@ blockquote cite { display:block; margin-top: 10px; color: var(--muted); font-sty
   font-size: 1em;
   color: #333;
 }
+
+/* --- Fix logo box outline --- */
+img {
+  border: none;
+  outline: none;
+  background: transparent;
+}
