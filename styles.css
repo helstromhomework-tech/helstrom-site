@@ -95,30 +95,3 @@ blockquote cite { display:block; margin-top: 10px; color: var(--muted); font-sty
   font-size: 1em;
   color: #333;
 }
-
-/* --- Header Layout --- */
-.site-header {
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-  padding: 20px 40px;
-  background-color: #fff;
-}
-
-.header-left {
-  display: flex;
-  align-items: center;
-  gap: 15px;
-}
-
-.header-logo {
-  height: 200px; /* adjust logo size */
-  width: auto;
-}
-
-.header-title {
-  font-size: 1.8em;
-  font-weight: 600;
-  color: #222;
-  margin: 0;
-}
