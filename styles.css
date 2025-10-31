@@ -112,7 +112,7 @@ blockquote cite { display:block; margin-top: 10px; color: var(--muted); font-sty
 }
 
 .header-logo {
-  height: 60px; /* adjust logo size */
+  height: 100px; /* adjust logo size */
   width: auto;
 }
 
